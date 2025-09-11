@@ -3364,10 +3364,10 @@ prism-react-renderer@^2.0.3:
     "@types/prismjs" "^1.26.0"
     clsx "^2.0.0"
 
-prismjs@^1.29.0:
-  version "1.29.0"
-  resolved "https://registry.npmjs.org/prismjs/-/prismjs-1.29.0.tgz"
-  integrity sha512-Kx/1w86q/epKcmte75LNrEoT+lX8pBpavuAbvJWRXar7Hz8jrtF+e3vY751p0R8H9HdArwaCTNDDzHg/ScJK1Q==
+prismjs@^1.30.0:
+  version "1.30.0"
+  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.30.0.tgz#d9709969d9d4e16403f6f348c63553b19f0975a9"
+  integrity sha512-DEvV2ZF2r2/63V+tK8hQvrR2ZGn10srHbXviTlcv7Kpzw8jWiNTqbVgjO3IY8RxrrOUF8VPMQQFysYYYv0YZxw==
 
 prop-types@^15.5.4, prop-types@^15.6.2, prop-types@^15.7.2, prop-types@^15.8.1:
   version "15.8.1"
@@ -4479,10 +4479,10 @@ vega@^5.32.0:
     vega-voronoi "~4.2.4"
     vega-wordcloud "~4.1.6"
 
-vite@^5.4.19:
-  version "5.4.19"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-5.4.19.tgz#20efd060410044b3ed555049418a5e7d1998f959"
-  integrity sha512-qO3aKv3HoQC8QKiNSTuUM1l9o/XX3+c+VTgLHbJWHZGeTPVAg2XwazI9UWzoxjIJCGCV2zU60uqMzjeLZuULqA==
+vite@^5.4.20:
+  version "5.4.20"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-5.4.20.tgz#3267a5e03f21212f44edfd72758138e8fcecd76a"
+  integrity sha512-j3lYzGC3P+B5Yfy/pfKNgVEg4+UtcIJcVRt2cDjIOmhLourAqPqf8P7acgxeiSgUB7E3p2P8/3gNIgDLpwzs4g==
   dependencies:
     esbuild "^0.21.3"
     postcss "^8.4.43"
